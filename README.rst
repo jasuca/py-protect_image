@@ -6,7 +6,7 @@ Python protect_image
 
 Description
 -----------
-Script that shuffle an image and generate a html to decrypt de image by the browser.
+Script that shuffle an image and generate a HTML to decrypt the image by the browser.
 
 TODO
 ----
